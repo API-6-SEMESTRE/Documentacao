@@ -3,6 +3,8 @@ Projeto Integrador do 6º Semestre do curso de Banco de Dados na FATEC
 
 ## 📝Projeto:
 
+<p align="center"> <img src = "https://github.com/API-6-SEMESTRE/Documentacao/blob/main/Src/logofinal.png"> </p>
+
 ## 💡 Tecnologias
 
 - MongoDB
