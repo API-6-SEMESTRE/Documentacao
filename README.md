@@ -42,33 +42,34 @@ Com um bom fluxo dos dados definido é possivel gerar relatórios de discrepânc
               </thead>
               <tbody>
                      <tr>
-                            <td align=center>Sprint 1<br> 00/00 a 00/00  </td>
+                            <td align=center>Sprint 1<br> 28/08 á 11/09  </td>
                             <td><p align=center> 
-                            Descrição das atividades
+                            - Criação do fluxo de dados; - ETL (Analíse dos dados); - Criação do Banco de Dados MongoDB; - API Python para tratamento dos dados; 
+                            - Geração de Logs
                             <p align=center>   
                             </td>
                             <td><p><a href="#">Ver mais...</a></p></td>
                      </tr>
                      <tr>
-                            <td align=center>Sprint 2<br> 00/00 a 00/00  </td>
+                            <td align=center>Sprint 2<br> 11/09 á 02/10  </td>
                             <td><p align=center> 
-                            Descrição das atividades
+                            - Criação do banco relacional; - Inserção dos dados no banco relacional; - Criação do PowerBI; - Inserção dos dados no PowerBI;
                             <p align=center>   
                             </td>
                             <td><p><a href="#">Ver mais...</a></p></td>
                      </tr> 
                      <tr>
-                            <td align=center>Sprint 3<br> 00/00 a 00/00  </td>
+                            <td align=center>Sprint 3<br> 02/10 á 23/10 </td>
                             <td><p align=center> 
-                            Descrição das atividades
+                            - Relatórios; - Relatório caso A; - Relatório caso B; - Relatório caso C; - Relatório caso D; - Machine Learning; 
                             <p align=center>   
                             </td>
                             <td><p><a href="#">Ver mais...</a></p></td>
                      </tr> 
                      <tr>
-                            <td align=center>Sprint 4<br> 00/00 a 00/00  </td>
+                            <td align=center>Sprint 4<br> 23/10 a 13/11  </td>
                             <td><p align=center> 
-                            Descrição das atividades
+                            - Melhorias no sistema; - Machine Learning;
                             <p align=center>   
                             </td>
                             <td><p><a href="#">Ver mais...</a></p></td>
