@@ -1,4 +1,4 @@
-<p align="center"> <img src="/Src/logofinal.png" alt="CATE" class="center" width=300/> </p>
+<p align="center"> <img src="/logo/logofinal.png" alt="CATE" class="center" width=300/> </p>
 
 <h1 align="center">CATE - Coleta Análise Tratamento Exibição</h1>
 
@@ -116,7 +116,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
             </a>
             <br />
             <p>Scrum Master</p>
-            <br />
+            <a href="[https://www.mongodb.com/](https://linkedin.com/in/tairik-nishimura/)">
+              <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+            </a>
         </td>
         <td align="center">
             <a href="https://www.linkedin.com/in/jeferson-tadeu-das-neves-a98343190/">
@@ -128,7 +130,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
             </a>
             <br />
             <p>Product Owner</p>
-            <br />
+            <a href="https://www.linkedin.com/in/jeferson-tadeu-das-neves-a98343190/">
+              <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+            </a>
         </td>
         <td align="center">
             <a href="https://linkedin.com/in/devanir-ramos-junior/">
@@ -140,7 +144,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
             </a>
             <br />
             <p>Developer</p>
-            <br />
+            <a href="https://linkedin.com/in/devanir-ramos-junior/">
+              <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+            </a>
         </td>
     </tr>
     <tr>
@@ -154,7 +160,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
             </a>
             <br />
             <p>Developer</p>
-            <br />
+            <a href="https://www.linkedin.com/in/jos%C3%A9-francisco-forneiro-junior/">
+              <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+            </a>
         </td>
         <td align="center">
             <a href="https://www.linkedin.com/in/alan-bezerra/">
@@ -166,7 +174,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
             </a>
             <br />
             <p>Developer</p>
-            <br />
+            <a href="https://www.linkedin.com/in/alan-bezerra/">
+              <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+            </a>
         </td>
     </tr>
 </table>
