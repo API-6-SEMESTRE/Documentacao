@@ -121,6 +121,20 @@ As seguintes ferramentas foram usadas na construção do projeto:
             </a>
         </td>
         <td align="center">
+            <a href="https://www.linkedin.com/in/maxx-barcelos-aaa106b2/">
+                <img style="border-radius: 50%;" src="./fotos/maximiles.png" width="150px;" height="150px;" alt="image" />
+                <br />
+                <sub>
+                    <b>Maximiles Barcelos</b>
+                </sub>
+            </a>
+            <br />
+            <p>Product Owner</p>
+            <a href="https://www.linkedin.com/in/maxx-barcelos-aaa106b2/">
+              <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+            </a>
+        </td>
+        <td align="center">
             <a href="https://www.linkedin.com/in/jeferson-tadeu-das-neves-a98343190/">
                 <img style="border-radius: 50%;" src="./fotos/jeferson.jpeg" width="150px;" height="150px;" alt="image" />
                 <br />
@@ -129,7 +143,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
                 </sub>
             </a>
             <br />
-            <p>Product Owner</p>
+            <p>Developer</p>
             <a href="https://www.linkedin.com/in/jeferson-tadeu-das-neves-a98343190/">
               <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
             </a>
@@ -175,6 +189,34 @@ As seguintes ferramentas foram usadas na construção do projeto:
             <br />
             <p>Developer</p>
             <a href="https://www.linkedin.com/in/alan-bezerra/">
+              <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://www.linkedin.com/in/leonardo-gabriel-silva-11b8b8178/">
+                <img style="border-radius: 50%;" src="./fotos/leonardo.jpg" width="150px;" height="150px;" alt="image" />
+                <br />
+                <sub>
+                    <b>Leonardo Gabriel</b>
+                </sub>
+            </a>
+            <br />
+            <p>Developer</p>
+            <a href="https://www.linkedin.com/in/leonardo-gabriel-silva-11b8b8178/">
+              <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://www.linkedin.com/in/henrique-zucareli-santiago/">
+                <img style="border-radius: 50%;" src="./fotos/henrique.png" width="150px;" height="150px;" alt="image" />
+                <br />
+                <sub>
+                    <b>Henrique Zucareli</b>
+                </sub>
+            </a>
+            <br />
+            <p>Developer</p>
+            <a href="https://www.linkedin.com/in/henrique-zucareli-santiago/">
               <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
             </a>
         </td>
