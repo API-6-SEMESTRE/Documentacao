@@ -1,4 +1,4 @@
-<p align="center"> <img src="/Src/logofinal.png" alt="CATE" class="center" width=300/> </p>
+<p align="center"> <img src="/logo/logofinal.png" alt="CATE" class="center" width=300/> </p>
 
 <h1 align="center">CATE - Coleta Análise Tratamento Exibição</h1>
 
