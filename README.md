@@ -12,6 +12,7 @@ O projeto a ser desenvolvido vai ser um sistema de gestão de reconciliação de
    * [Demonstração da aplicação](#-demonstração-da-aplicação) - A fazer
    * [Projeto](#-projeto)
    * [Desafio](#-desafio)
+   * [Solução](#-solução)
    * [Entregas](#-entregas)
    * [Rodando o Sistema](#-rodando-o-sistema) - A fazer
       * [Pré-requisitos](#-pré-requisitos)
