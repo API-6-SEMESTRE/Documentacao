@@ -15,10 +15,6 @@ O projeto a ser desenvolvido vai ser um sistema de gestão de reconciliação de
    * [Solução](#-solução)
    * [Entregas](#-entregas)
    * [Rodando o Sistema](#-rodando-o-sistema) - A fazer
-      * [Pré-requisitos](#-pré-requisitos)
-      * [Rodando o Front-End](#-rodando-o-front-end)
-      * [Rodando o Back-End Java](#-rodando-o-back-end-java)
-      * [Rodando o Back-End Python](#-rodando-o-back-end-python)
    * [Tecnologias](#-tecnologias)
    * [Membros](#-membros)
    * [Licença](#-licença)
