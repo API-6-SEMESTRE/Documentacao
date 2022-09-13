@@ -1,4 +1,4 @@
-<p align="center"> <img src="/logo/logofinal.png" alt="CATE" class="center" width=300/> </p>
+<p align="center"> <img src="./logo/logofinal.png" alt="CATE" class="center" width=300/> </p>
 
 <h1 align="center">CATE - Coleta Análise Tratamento Exibição</h1>
 
@@ -9,7 +9,7 @@ O projeto a ser desenvolvido vai ser um sistema de gestão de reconciliação de
 <!--ts-->
    * [Introdução](#cate---coleta-análise-tratamento-exibição)
    * [Features](#-features)
-   * [Demonstração da aplicação](#-demonstração-da-aplicação) - A fazer
+   * [Demonstração da aplicação](#-demonstração-da-aplicação)
    * [Projeto](#-projeto)
    * [Desafio](#-desafio)
    * [Solução](#-solução)
@@ -30,7 +30,15 @@ O projeto a ser desenvolvido vai ser um sistema de gestão de reconciliação de
 - [ ] Bônus
   - [ ] Implementação Machine Learning
 
-<h2 align="center">📺 Demonstração da aplicação - A fazer</h2>
+<h2 align="center">📺 Demonstração da aplicação</h2>
+
+<p align="center">Demonstração dos protótipos de relatório</p>
+
+<div align="center">
+
+![Alt Text](./demonstracao-aplicacao/teste.png)
+
+</div>
 
 <h2 align="center">🖥 Projeto</h2>
 
