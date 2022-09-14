@@ -141,7 +141,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
         </td>
         <td align="center">
             <a href="https://www.linkedin.com/in/jeferson-tadeu-das-neves-a98343190/">
-                <img style="border-radius: 50%;" src="./fotos/jeferson.jpeg" width="150px;" height="150px;" alt="image" />
+                <img style="border-radius: 50%;" src="./fotos/jeferson.png" width="150px;" height="150px;" alt="image" />
                 <br />
                 <sub>
                     <b>Jeferson Neves</b>
@@ -199,7 +199,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
         </td>
         <td align="center">
             <a href="https://www.linkedin.com/in/leonardo-gabriel-silva-11b8b8178/">
-                <img style="border-radius: 50%;" src="./fotos/leonardo.jpg" width="150px;" height="150px;" alt="image" />
+                <img style="border-radius: 50%;" src="./fotos/leonardo.png" width="150px;" height="150px;" alt="image" />
                 <br />
                 <sub>
                     <b>Leonardo Gabriel</b>
