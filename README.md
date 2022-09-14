@@ -64,7 +64,34 @@ Abaixo segue o planejamento e o progresso durante as Sprints do projeto.
 |  3  |  13/10/2022 a 06/11/2022  | Modelagem e implementação do DW, Persitência dos dados relevantes no DW.
 |  4  |  07/11/2022 a 27/11/2022  | Modelagem e implemantação do Power BI, Integração entre o DW e o Power BI, Relatórios no Power BI,  Machine Learning (bônus).
 
-<h2 align="center">🚀 Rodando o Sistema - A fazer</h2>
+<h2 align="center">🚀 Rodando o Sistema</h2>
+
+<h3>📑 Pré-requisitos</h3>
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Python](https://www.python.org/)  e [PIP](https://pypi.org/project/pip/).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) ou [PyCharm](https://www.jetbrains.com/pt-br/pycharm/).
+
+<h3>🎲 Rodando o Python</h3>
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/API-6-SEMESTRE/Projeto
+
+# Rodar o comando a seguir no terminal para instalar as bibliotecas do PIP
+$ pip install -r src/requirements.txt
+
+# Rodar um dos comandos a seguir:
+
+## Nível BRONZE - Extração dos dados das planilhas e a persistência no MongoDB SEM anonimizar os dados
+$ python3 src/extractor.py bronze
+
+## Nível SILVER - Extração dos dados das planilhas e a persistência no MongoDB COM anonimização dos dados
+$ python3 src/extractor.py silver
+
+# Pronto! Os dados foram persistidos no MongoDB de acordo com a opção escolhida.
+```
+
 
 <h2 align="center">🛠 Tecnologias</h2>
 
