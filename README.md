@@ -36,7 +36,9 @@ O projeto a ser desenvolvido vai ser um sistema de gestão de reconciliação de
 
 <div align="center">
 
-![Alt Text](./demonstracao-aplicacao/teste.png)
+![Alt Text](./demonstracao-aplicacao/grafico-1.png)
+![Alt Text](./demonstracao-aplicacao/grafico-2.png)
+![Alt Text](./demonstracao-aplicacao/grafico-3.png)
 
 </div>
 
