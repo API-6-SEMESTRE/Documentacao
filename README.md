@@ -86,10 +86,10 @@ $ pip install -r src/requirements.txt
 # Rodar um dos comandos a seguir:
 
 ## Nível BRONZE - Extração dos dados das planilhas e a persistência no MongoDB SEM anonimizar os dados
-$ python3 src/extractor.py bronze
+$ python3 src/extractor.py -l bronze
 
 ## Nível SILVER - Extração dos dados das planilhas e a persistência no MongoDB COM anonimização dos dados
-$ python3 src/extractor.py silver
+$ python3 src/extractor.py -l silver
 
 # Pronto! Os dados foram persistidos no MongoDB de acordo com a opção escolhida.
 ```
