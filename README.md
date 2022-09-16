@@ -14,7 +14,7 @@ O projeto a ser desenvolvido vai ser um sistema de gestão de reconciliação de
    * [Desafio](#-desafio)
    * [Solução](#-solução)
    * [Entregas](#-entregas)
-   * [Rodando o Sistema](#-rodando-o-sistema) - A fazer
+   * [Rodando o Sistema](#-rodando-o-sistema)
    * [Tecnologias](#-tecnologias)
    * [Membros](#-membros)
    * [Licença](#-licença)
