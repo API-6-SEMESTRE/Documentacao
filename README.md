@@ -22,10 +22,16 @@ O projeto a ser desenvolvido vai ser um sistema de gestão de reconciliação de
 
 <h2 align="center">✅ Features</h2>
 
+- [x] Níveis de processamento dos dados Bronze e Silver
+- [x] Extração dos dados
+- [x] LOG do processo de extração dos dados
+- [ ] Limpeza dos dados
+- [x] Armazenamanto dos dados brutos no MongoDB
+- [x] Log do processo de persistência no MongoDB
+- [ ] Cruzamento dos dados
+- [ ] Armazenamento dos dados cruzados no MongoDB
+- [ ] Armazenamento dos dados cruzados no DW
 - [ ] Aplicação da LGPD
-- [ ] LOG para rastreamento dos dados
-- [ ] Armazenamanto dos dados brutos no MongoDB
-- [ ] Armazenamento dos dados tratados em um DW
 - [ ] Relatórios no Power BI
 - [ ] Bônus
   - [ ] Implementação Machine Learning
@@ -61,10 +67,10 @@ Abaixo segue o planejamento e o progresso durante as Sprints do projeto.
 
 |   **SPRINT**    |  **DATA DE ENTREGA**  | **O QUE SERÁ ENTREGUE** |
 |-----------------|-----------------------|-------------------------|
-|  1  |  29/08/2022 a 18/09/2022  | Aplicação da LGPD nos dados, Modelagem dos dados, Geração de Logs para rastreamento dos dados, Persitência dos dados brutos no MongoDB.
-|  2  |  19/09/2022 a 09/10/2022  | Analíse e tratamento dos dados via Python, Persitência dos dados tratados no MongoDB.
-|  3  |  13/10/2022 a 06/11/2022  | Modelagem e implementação do DW, Persitência dos dados relevantes no DW.
-|  4  |  07/11/2022 a 27/11/2022  | Modelagem e implemantação do Power BI, Integração entre o DW e o Power BI, Relatórios no Power BI,  Machine Learning (bônus).
+|  1  |  29/08/2022 a 18/09/2022  | Modelagem dos dados, níveis de processamento dos dados (Bronze e Silver), extração dos dados das bases, LOG do processo de extração, persitência dos dados brutos no MongoDB, LOG do processo de persistência no MongoDB.
+|  2  |  19/09/2022 a 09/10/2022  | Limpeza dos dados extraídos das bases, analíse e cruzamento dos dados via Python e persitência dos dados cruzados no MongoDB.
+|  3  |  13/10/2022 a 06/11/2022  | Aplicação da LGPD, modelagem e implementação do DW, Persitência dos dados relevantes no DW.
+|  4  |  07/11/2022 a 27/11/2022  | Modelagem e implemantação do Power BI, integração entre o DW e o Power BI, relatórios no Power BI e Machine Learning (bônus).
 
 <h2 align="center">🚀 Rodando o Sistema</h2>
 
@@ -86,10 +92,10 @@ $ pip install -r src/requirements.txt
 # Rodar um dos comandos a seguir:
 
 ## Nível BRONZE - Extração dos dados das planilhas e a persistência no MongoDB SEM anonimizar os dados
-$ python3 src/extractor.py -l bronze
+$ python3 src/et_l.py -l bronze
 
 ## Nível SILVER - Extração dos dados das planilhas e a persistência no MongoDB COM anonimização dos dados
-$ python3 src/extractor.py -l silver
+$ python3 src/et_l.py -l silver
 
 # Pronto! Os dados foram persistidos no MongoDB de acordo com a opção escolhida.
 ```
