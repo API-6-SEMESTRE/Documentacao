@@ -18,6 +18,7 @@ O projeto a ser desenvolvido vai ser um sistema de gestão de reconciliação de
    * [Tecnologias](#-tecnologias)
    * [Membros](#-membros)
    * [Licença](#-licença)
+   * [Dicionário do projeto](#-Dicionário-do-Projeto)
 <!--te-->
 
 <h2 align="center">✅ Features</h2>
