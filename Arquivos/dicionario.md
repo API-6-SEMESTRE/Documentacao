@@ -1,4 +1,4 @@
-##**Dicionário de Expressões no projeto CATE**
+## **Dicionário de Expressões no projeto CATE**
 
 1. Conciliados: Dados encontrados nas duas tabelas, repasse e mensalidade, valores identicos.
 2. ConciliadosComDiv: Dados encontrados nas duas tabelas, repasse e mensalidade, valores divergentes.
