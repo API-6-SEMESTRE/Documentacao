@@ -35,7 +35,8 @@ os seguintes modelos:
 3. **Backuplog:** Concatena todos os processos executados no dia gerando assim um backup dos logs executados.
 <br><br> Os logs são gerados automaticamente quando um processo é iniciado. Ao término é gerado arquivos que podem ser consultados posteriormente, facilitando a rastreabilidade das informações.
 <br><br> Segue abaixo modelo de log gerado pelo projeto: <br><br>
- 
+ ![](https://github.com/API-6-SEMESTRE/Documentacao/blob/main/LGPD/imagens/imagemLog.png)
 
+ <br><br> Estando as etapas de tratamento de dados do projeto expostas e explicadas no corpo deste documento, fica acordado com a empresa Dom Rock que aceita os processos da forma que foi apresentado.
 
-
+<br> Ambas as partes em acordo, nós The Velopers firmamos o comprometimento com a realização das etapas mencionadas e descritas.
