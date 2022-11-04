@@ -1,3 +1,7 @@
+create database api;
+
+use api;
+
 create table fatura (
     id_fat bigint not null auto_increment,
     competencia date,
