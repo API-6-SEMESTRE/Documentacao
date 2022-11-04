@@ -5,7 +5,7 @@ use api;
 create table fatura (
     id_fat bigint not null auto_increment,
     competencia date,
-    numero_fatura bigint not null,
+    numero_fatura bigint,
     rubrica varchar(100),
     parcela bigint,
     dt_geracao date,
@@ -24,7 +24,7 @@ create table beneficiario (
     id_seg bigint not null auto_increment,
     tipo varchar(1),
     nome varchar(50),
-    marca_otica bigint not null,
+    marca_otica bigint,
     dt_nascimento date,
     primary key(id_seg)
 );
@@ -32,7 +32,7 @@ create table beneficiario (
 create table contrato (
     id_cont bigint not null auto_increment,
     plano varchar(100),
-    num_contrato bigint not null,
+    num_contrato bigint,
     situacao varchar(50),
     dependente bigint,
     dt_cancelamento date,
