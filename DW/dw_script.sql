@@ -1,6 +1,8 @@
-create database api;
+drop database dw;
 
-use api;
+create database dw;
+
+use dw;
 
 create table fatura (
     id_fat bigint not null auto_increment,
@@ -20,7 +22,7 @@ create table convenio (
     primary key(id_conv)
 );
 
-create table beneficiario (
+create table benificiario (
     id_seg bigint not null auto_increment,
     tipo varchar(1),
     nome varchar(50),
@@ -67,7 +69,7 @@ create table fato (
     references fatura (id_fat),
     constraint fk_id_seg
     foreign key (id_seg)
-    references beneficiario (id_seg),
+    references benificiario (id_seg),
     constraint fk_id_dat
     foreign key (id_dat)
     references tempo (id_dat),
