@@ -106,6 +106,10 @@ $ python src/et_l.py -l silver
 ## Adicionar "-v" no fim do comando para printar o processamento no console
 $ python src/et_l.py -l gold
 
+## Nível ALL - Roda todos os precessos na sequência BRONZE > SILVER > GOLD
+## Adicionar "-v" no fim do comando para printar o processamento no console
+$ python src/et_l.py -l all
+
 # Pronto!
 ```
 
