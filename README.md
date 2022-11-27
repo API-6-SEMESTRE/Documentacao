@@ -35,9 +35,9 @@ O projeto a ser desenvolvido vai ser um sistema de gestão de reconciliação de
 - [x] Armazenamento dos dados cruzados no DW
 - [x] Armazenamento dos LOGs no MongoDB
 - [x] Aplicação da LGPD
-- [ ] Relatórios no Power BI
-- [ ] Bônus
-  - [ ] Implementação Machine Learning
+- [x] Relatórios no Power BI
+- [x] Bônus
+  - [x] Implementação Machine Learning
 
 <h2 align="center">📺 Demonstração da aplicação</h2>
 
