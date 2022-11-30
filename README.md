@@ -41,13 +41,11 @@ O projeto a ser desenvolvido vai ser um sistema de gestão de reconciliação de
 
 <h2 align="center">📺 Demonstração da aplicação</h2>
 
-<p align="center">Demonstração dos protótipos de relatório</p>
+<p align="center">Demonstração dos relatórios</p>
 
 <div align="center">
 
-![Alt Text](./demonstracao-aplicacao/grafico-1.png)
-![Alt Text](./demonstracao-aplicacao/grafico-2.png)
-![Alt Text](./demonstracao-aplicacao/grafico-3.png)
+![Alt Text](./demonstracao-aplicacao/dash_api.jpg)
 
 </div>
 
